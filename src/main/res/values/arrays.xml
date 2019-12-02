@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_order_by_labels">
+        <item>@string/news_order_by_trending_stories_label</item>
+        <item>@string/news_order_by_entertainment_label</item>
+        <item>@string/news_order_by_business_label</item>
+        <item>@string/news_order_by_sports_label</item>
+        <item>@string/news_order_by_technology_label</item>
+    </string-array>
+
+    <string-array name="news_order_by_values">
+        <item>@string/news_order_by_trending_value</item>
+        <item>@string/news_order_by_entertainment_value</item>
+        <item>@string/news_order_by_business_value</item>
+        <item>@string/news_order_by_sports_value</item>
+        <item>@string/news_order_by_technology_value</item>
+    </string-array>
+</resources>
